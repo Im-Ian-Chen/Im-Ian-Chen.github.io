@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Im-Ian-Chen.github.io</id>
     <title>drizzle</title>
-    <updated>2021-07-12T18:25:42.435Z</updated>
+    <updated>2021-07-12T18:59:16.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Im-Ian-Chen.github.io"/>
     <link rel="self" href="https://Im-Ian-Chen.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://Im-Ian-Chen.github.io/images/avatar.png</logo>
     <icon>https://Im-Ian-Chen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, drizzle</rights>
+    <entry>
+        <title type="html"><![CDATA[dsah@#!@]]></title>
+        <id>https://Im-Ian-Chen.github.io/post/dsah/</id>
+        <link href="https://Im-Ian-Chen.github.io/post/dsah/">
+        </link>
+        <updated>2021-07-12T18:59:02.000Z</updated>
+        <content type="html"><![CDATA[<p>haa</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World!!!]]></title>
         <id>https://Im-Ian-Chen.github.io/post/hello-world/</id>
